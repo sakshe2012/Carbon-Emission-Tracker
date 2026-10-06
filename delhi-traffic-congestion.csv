@@ -1,0 +1,10 @@
+area,congestion_level,traffic_factor
+Connaught Place,High,1.3
+Nehru Place,High,1.25
+Vasant Vihar,Medium,1.1
+Dwarka,Low,1.0
+Rohini,Medium,1.15
+Okhla,High,1.35
+Gurgaon Expressway,High,1.4
+Noida Link Road,Medium,1.15
+Default,Medium,1.1
